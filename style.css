@@ -1,0 +1,47 @@
+.price {
+    font-weight: bold;
+    color: #FABE4C;
+    font-size: 40px;
+}
+
+.navbar-head {
+    background-color: rgb(255, 243, 241);
+}
+
+.font-highlight {
+    font-weight: bold;
+    color: #FABE4C;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.second-line-highlight {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.button-highlight {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    color: white;
+}
+
+h3 {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+
+h4 {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+.bottom-mdl {
+    justify-content: center;
+    line-height: 10px;
+    text-align: center;
+}
